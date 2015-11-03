@@ -2,6 +2,17 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19076",
 "files": {
+	"\/assets\/Artisan-Metrics-1-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30146,
+		"inputAbbreviatedPath": "\/assets\/Artisan-Metrics-1-2x.png",
+		"outputAbbreviatedPath": "\/assets\/Artisan-Metrics-1-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/Artisan-Metrics-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -9,6 +20,17 @@
 		"initialSize": 15550,
 		"inputAbbreviatedPath": "\/assets\/Artisan-Metrics-1.png",
 		"outputAbbreviatedPath": "\/assets\/Artisan-Metrics-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/Artisan-Metrics-2-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30787,
+		"inputAbbreviatedPath": "\/assets\/Artisan-Metrics-2-2x.png",
+		"outputAbbreviatedPath": "\/assets\/Artisan-Metrics-2-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24,6 +46,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/Artisan-Metrics-3-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29369,
+		"inputAbbreviatedPath": "\/assets\/Artisan-Metrics-3-2x.png",
+		"outputAbbreviatedPath": "\/assets\/Artisan-Metrics-3-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/Artisan-Metrics-3.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -31,6 +64,17 @@
 		"initialSize": 15305,
 		"inputAbbreviatedPath": "\/assets\/Artisan-Metrics-3.png",
 		"outputAbbreviatedPath": "\/assets\/Artisan-Metrics-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/Artisan-Metrics-4-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29934,
+		"inputAbbreviatedPath": "\/assets\/Artisan-Metrics-4-2x.png",
+		"outputAbbreviatedPath": "\/assets\/Artisan-Metrics-4-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46,6 +90,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/db-footer-white-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5503,
+		"inputAbbreviatedPath": "\/assets\/db-footer-white-2x.png",
+		"outputAbbreviatedPath": "\/assets\/db-footer-white-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/db-footer-white.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -53,6 +108,17 @@
 		"initialSize": 3161,
 		"inputAbbreviatedPath": "\/assets\/db-footer-white.png",
 		"outputAbbreviatedPath": "\/assets\/db-footer-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/db-header-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9127,
+		"inputAbbreviatedPath": "\/assets\/db-header-2x.png",
+		"outputAbbreviatedPath": "\/assets\/db-header-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -68,6 +134,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/ER-icon-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2424,
+		"inputAbbreviatedPath": "\/assets\/ER-icon-2x.png",
+		"outputAbbreviatedPath": "\/assets\/ER-icon-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/ER-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -75,6 +152,17 @@
 		"initialSize": 1749,
 		"inputAbbreviatedPath": "\/assets\/ER-icon.png",
 		"outputAbbreviatedPath": "\/assets\/ER-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/Facilities-on-HUT-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14176,
+		"inputAbbreviatedPath": "\/assets\/Facilities-on-HUT-2x.png",
+		"outputAbbreviatedPath": "\/assets\/Facilities-on-HUT-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -90,6 +178,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/HCA-CRM-footer-white-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8322,
+		"inputAbbreviatedPath": "\/assets\/HCA-CRM-footer-white-2x.png",
+		"outputAbbreviatedPath": "\/assets\/HCA-CRM-footer-white-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/HCA-CRM-footer-white.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -97,6 +196,17 @@
 		"initialSize": 4352,
 		"inputAbbreviatedPath": "\/assets\/HCA-CRM-footer-white.png",
 		"outputAbbreviatedPath": "\/assets\/HCA-CRM-footer-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/HCA-CRM-header-logo-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6153,
+		"inputAbbreviatedPath": "\/assets\/HCA-CRM-header-logo-2x.png",
+		"outputAbbreviatedPath": "\/assets\/HCA-CRM-header-logo-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -112,6 +222,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/HUT-logo-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2455,
+		"inputAbbreviatedPath": "\/assets\/HUT-logo-2x.png",
+		"outputAbbreviatedPath": "\/assets\/HUT-logo-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/HUT-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -119,6 +240,17 @@
 		"initialSize": 1904,
 		"inputAbbreviatedPath": "\/assets\/HUT-logo.png",
 		"outputAbbreviatedPath": "\/assets\/HUT-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/HUT-Metrics-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51656,
+		"inputAbbreviatedPath": "\/assets\/HUT-Metrics-2x.png",
+		"outputAbbreviatedPath": "\/assets\/HUT-Metrics-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -134,6 +266,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/JR-Allen-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15733,
+		"inputAbbreviatedPath": "\/assets\/JR-Allen-2x.png",
+		"outputAbbreviatedPath": "\/assets\/JR-Allen-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/JR-Allen.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -145,6 +288,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/MHO-logo-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3595,
+		"inputAbbreviatedPath": "\/assets\/MHO-logo-2x.png",
+		"outputAbbreviatedPath": "\/assets\/MHO-logo-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/MHO-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -152,6 +306,17 @@
 		"initialSize": 2215,
 		"inputAbbreviatedPath": "\/assets\/MHO-logo.png",
 		"outputAbbreviatedPath": "\/assets\/MHO-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/MHO-Stats-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35500,
+		"inputAbbreviatedPath": "\/assets\/MHO-Stats-2x.png",
+		"outputAbbreviatedPath": "\/assets\/MHO-Stats-2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
